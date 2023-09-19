@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Peterson Cesar 
 -📗 Hoje estou cursando desenvolvimento Web 
--📗 Estudando front-end,voltado para a area de desenvolvimento web  nas linguagens(Html,Css, JavaScript e React.js)
+-📗 Estudando front-end,voltado para a area de desenvolvimento web  nas linguagens(Html,Css, JavaScript, React.js e Java)
 -📇 Contate-me petersoncesargoncalves@gmail.com  
 
 ![Pet GitHub stats](https://github-readme-stats.vercel.app/api?username=devPet&show_icons=true&theme=dracula&count_private=true)
